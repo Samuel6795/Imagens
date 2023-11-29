@@ -1,0 +1,16 @@
+body {
+    background: rgb(0, 255, 255);
+    color: black;
+}
+.heading {
+    width: 80% /*do sol*/; 
+    font-size: 22px;
+}
+.nameOfObjects, #resultObjectName, #resultObjectAccuracy {
+    color : rgb(43, 41, 41)
+}
+#camera {
+    border: 2px dashed #fffffffb;
+    width: 350px;
+    height: 350px;
+}
